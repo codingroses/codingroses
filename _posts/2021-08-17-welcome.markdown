@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome to Coding Roses!"
+date:   2021-08-17 14:20:02 +0300
+image:  10.jpg
+tags:   Welcome
+---
+
+Welcome to my new tech blog! 
+I have promised a new tutorial this year and after filming and refilming dozen of times, I have managed to put it all nice together. Enjoy~
