@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Coding Roses blog!"
 date:   2021-08-17 14:05:55 +0300
 image:  1.jpg
-tags:   Jekyll
+tags:   Random
 ---
 
 ## Take a leap! 
