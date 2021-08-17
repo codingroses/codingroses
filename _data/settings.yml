@@ -2,26 +2,25 @@
 # General Site Settings
 title: Coding Roses
 logo: logo.svg # You can add own logo.
-description: A tech blog
+description: A tech blog about all things data
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Coding Rose
+  name: Coding Roses
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Rose</strong>
-  bio: A tech blog about <strong>data</strong>, <strong>machine learning</strong> and some random <strong>backend</strong> tools and softwares. 
-  I share design tutorials, free resources and inspiration.
+  say-hello: Hello, I’m <strong>rose</strong>
+  bio: A tech blog about <strong>data</strong>, <strong>machine learning</strong>, and random dev. I share tutorials, free resources and inspiration.
 
 
 #-------------------------------
 # Contact links
 twitter: https://twitter.com/codingroses # Add your Twitter handle
-# facebook: https://facebook.com/ # Add your Facebook handle
+#facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/codingroses # Add your Instagram handle
-# pinterest: https://pinterest.com/ # Add your Pinterest handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
@@ -32,7 +31,7 @@ instagram: https://instagram.com/codingroses # Add your Instagram handle
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: coding_roses # Add instagram username
+instagram-profile: codingroses # Add instagram username
 
 
 #-------------------------------
