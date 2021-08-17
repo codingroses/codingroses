@@ -10,7 +10,7 @@ description: A tech blog
 author:
   name: Coding Rose
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Rose </strong>
+  say-hello: Hello, I’m <strong>Rose</strong>
   bio: A tech blog about <strong>data</strong>, <strong>machine learning</strong> and some random <strong>backend</strong> tools and softwares. 
   I share design tutorials, free resources and inspiration.
 
