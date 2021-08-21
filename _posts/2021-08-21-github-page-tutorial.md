@@ -36,7 +36,7 @@ In GitHub, a repository represents a folder. When someone wants to copy a reposi
 
 In the top right corner of the github page, you should be able to see the image below 
 
-![fork-image](https://github.com/codingroses/codingroses/blob/master/images/fork.png)
+![fork-image](codingroses/blob/master/images/fork.png)
 
 Make sure to press the star button (it let’s the developer know that you love that theme) and then fork the project. You should see something similar to this:
 
