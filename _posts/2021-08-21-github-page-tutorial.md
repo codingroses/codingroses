@@ -36,11 +36,11 @@ In GitHub, a repository represents a folder. When someone wants to copy a reposi
 
 In the top right corner of the github page, you should be able to see the image below 
 
-![fork-image](https://raw.github.com/codingroses/codingroses/blob/master/images/fork.png)
+![fork-image](https://github.com/codingroses/codingroses/raw/master/images/fork.png)
 
 Make sure to press the star button (it let’s the developer know that you love that theme) and then fork the project. You should see something similar to this:
 
-![forking](https://raw.github.com/codingroses/codingroses/blob/master/images/forking-process.png)
+![forking](https://github.com/codingroses/codingroses/raw/master/images/forking-process.png)
 
 You will notice you are in the the same repository, but you are in your own copy of the repository, you are not in the original one. How do you know this? In the top left corner of the page, you will be able to see your own username.
 
