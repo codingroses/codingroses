@@ -7,9 +7,6 @@ tags:   tutorial
 ---
 
 
-# Create a Website for Free Using Github with little to no coding experience
-build a portfolio or a site 
-
 **_for a video tutorial, please see the video posted on my [YouTube Channel](https://www.youtube.com/watch?v=NX7KVlbViA4)_**
 
 When applying for a job position you are often asked to provide a Github account, and optionally a site.
