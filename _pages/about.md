@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: alexandru-acea-XEB8y0nRRP4-unsplash.jpg
 ---
 
 Hi, my name is Rose!
