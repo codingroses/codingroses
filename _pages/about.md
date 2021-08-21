@@ -21,9 +21,13 @@ I have been working with Python for 4+ years, SQL for 2 years, R 1y and 6m of Go
 I am running Ubuntu 20.04 in WSL on Linux.
 
 You can find me on various platforms:
+
 instagram at [codingroses](https://www.instagram.com/codingroses/)
+
 youtube at [codingroses](https://www.youtube.com/channel/UCvNkbUFARO91TxCmtKJBe6w)
+
 twitter at [codingroses](https://twitter.com/codingroses)
+
 tiktok at [coding_roses](https://www.tiktok.com/@coding_roses?lang=en)
 
 ***
