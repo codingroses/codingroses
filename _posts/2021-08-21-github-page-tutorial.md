@@ -61,22 +61,22 @@ The general structure would be the following folders _includes, _layouts, _posts
 In this step let’s change the site name to point to yourusername.github.io and change the repository name
 In the main tab, click on Settings
 
-![Settings](https://github.com/codingroses/codingroses/blob/master/images/settings.png)
+![Settings](https://github.com/codingroses/codingroses/raw/master/images/settings.png)
 
 Change the repository name to be your **username.github.io** since this is the link your site will be at. 
 
-![repository](https://github.com/codingroses/codingroses/blob/master/images/name-repo.png)
+![repository](https://github.com/codingroses/codingroses/raw/master/images/name-repo.png)
 
 Confirm by clicking rename. Then go back to Settings (it will send you back to the code once you renamed it) and scroll towards the bottom of the page to see GitHub Pages to see  the confirmation of your site name: 
 
-![GitHubPages](https://github.com/codingroses/codingroses/blob/master/images/gh-pages.png)
+![GitHubPages](https://github.com/codingroses/codingroses/raw/master/images/gh-pages.png)
 
 **Note: You can only have ONE website with GitHub. **
 
 ## Set the `_config.yml` file
 To edit the file, click the pencil located in the top right corner.
 
-![edit-files](https://github.com/codingroses/codingroses/blob/master/images/how-to-edit-files.png)
+![edit-files](https://github.com/codingroses/codingroses/raw/master/images/how-to-edit-files.png)
 
 Each theme might be different, but they are all very similar. Please be careful about this step of modifying and deleted unnecessary comments.
 
@@ -84,26 +84,26 @@ For example, we don’t need google_analytics as this will be a personal site. I
 
 This is how I edited my page information. The github variable only need the username, same with LinkedIn. The theme will automatically write linkedin.com/username. 
 
-![my-file-example](https://github.com/codingroses/codingroses/blob/master/images/page-info.png)
+![my-file-example](https://github.com/codingroses/codingroses/raw/master/images/page-info.png)
 
 ## How to save a file in Github 
 To save changes, write a title of the changes you have done (this helps you keep track and even go back if you ever need to) and commit the changes. 
 
 Once the page reloads, if you wish to do any more changes, you’ll have to click on Edit once again (the pencil icon).
 
-![commit-changes](https://github.com/codingroses/codingroses/blob/master/images/commit-changes.png)
+![commit-changes](https://github.com/codingroses/codingroses/raw/master/images/commit-changes.png)
 
 To go back to the main folder, simply click **Code** on the top left corner. 
 
 ## Change Fonts and Colour
 The theme Zolan has the fonts in the **_sass/0-settings/_variables.scss_** file.
 
-![Zolan-font](https://github.com/codingroses/codingroses/blob/master/images/fonts-zolan.PNG)
+![Zolan-font](https://github.com/codingroses/codingroses/raw/master/images/fonts-zolan.PNG)
 
 To change the colour, make sure to get the HEX of the colour you'd like. It looks like this #AAA111 (it has a # then 6 characters that can be numbers or letters). 
 You can find this line in the same file folder: _sass -> 0-settings -> _variables.scss _
 
-![zolan colour](https://github.com/codingroses/codingroses/blob/master/images/change-colour.PNG)
+![zolan colour](https://github.com/codingroses/codingroses/raw/master/images/change-colour.PNG)
 
 Example:
 pink:  #e28693
@@ -113,20 +113,20 @@ blue: #0a42db
 ### Other themes
 In other themes, locate the `_fonts_` folder
 
-![other-themes](https://github.com/codingroses/codingroses/blob/master/images/index-htmlfile.png)
+![other-themes](https://github.com/codingroses/codingroses/raw/master/images/index-htmlfile.png)
 
 To select a new font, look at [Google Fonts](https://fonts.google.com/) for free, beautiful fonts, to use for your site. My favourite is Playfair Display 
 Once you open up a font, click on the top right corner. Onto the one with the red dot on it.
 
-![Google Fonts](https://github.com/codingroses/codingroses/blob/master/images/google-fonts-tutorial.png)
+![Google Fonts](https://github.com/codingroses/codingroses/raw/master/images/google-fonts-tutorial.png)
 
 It will open up a side bar which has this information:
 
-![Google font info](https://github.com/codingroses/codingroses/blob/master/images/google-font-link.png)
+![Google font info](https://github.com/codingroses/codingroses/raw/master/images/google-font-link.png)
 
 Copy the code and replace the two lines into the highlighted one mentioned before. 
 
-![replace google font](https://github.com/codingroses/codingroses/blob/master/images/change-google-font.png)
+![replace google font](https://github.com/codingroses/codingroses/raw/master/images/change-google-font.png)
 
 
 Commit changes and let’s move on to the next step. We are almost done! 
@@ -135,10 +135,10 @@ Commit changes and let’s move on to the next step. We are almost done!
 
 On the right-hand side of your repository you’ll see this:
 
-![Zolan about](https://github.com/codingroses/codingroses/blob/master/images/zolan-about-section.PNG)
+![Zolan about](https://github.com/codingroses/codingroses/raw/master/images/zolan-about-section.PNG)
 
 Let’s change it to represent information about your site, and also link your site.
 
-![about-section](https://github.com/codingroses/codingroses/blob/master/images/finally-done.png)
+![about-section](https://github.com/codingroses/codingroses/raw/master/images/finally-done.png)
 
 ## Try your new website now! 
