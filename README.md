@@ -5,5 +5,5 @@ This blog is about all things tech-related with a passion for data projects.
 
 
 ### Credits
-Special thank you to Zolan. The theme is forked from <a href="https://github.com/artemsheludko/zolan">Zolan's page</a>. <p>If you like to sponsor the themes Artem Sheludko created please consider his <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+Special thank you to Artem Shedulko. The theme is forked from <a href="https://github.com/artemsheludko/zolan">their's page</a>. <p>If you like to sponsor the themes Artem Sheludko created please consider his <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
 
