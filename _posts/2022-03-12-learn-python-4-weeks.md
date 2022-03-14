@@ -28,6 +28,8 @@ Kaggle is a website for competing in data challenges, and it also has a section 
 
 - [Learn Python](https://www.learnpython.org)
 
+- [W3School](https://www.w3schools.com/python/)
+
 
 ## Week 1 - Variables, Lists, Booleans
 Start with the traditional "Hello World".
@@ -103,7 +105,7 @@ if x < 2:
     print(x)
 ```
 
-[Conditins](https://www.learnpython.org/en/Conditions)
+[Conditions](https://www.learnpython.org/en/Conditions)
 
 [Loops](https://www.learnpython.org/en/Loops)
 
