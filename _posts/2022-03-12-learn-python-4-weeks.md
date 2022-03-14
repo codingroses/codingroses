@@ -15,14 +15,14 @@ Dedicate the time you can afford, don't rush through things.  Go with a plan tha
 
 ## Resources to use
 
-- Hackerrank https://www.hackerrank.com/domains/python
+- [Hackerrank](https://www.hackerrank.com/domains/python)
 Hackerrank is actually a platform that some companies use for coding challenges for developers. It's a great idea to get accustomed to it from the start. It is also a place to get certified and noticed by companies looking to hire Python Developers. 
 Tip: create an account on Hackerrank- "For Developers" option (it's free to use) here https://www.hackerrank.com 
 
-- Kaggle Learn https://www.kaggle.com/learn/python
+- [Kaggle Learn](https://www.kaggle.com/learn/python)
 Kaggle is a website for competing in data challenges, and it also has a section on learning Python. 
 
-- Learn Python https://www.learnpython.org
+- [Learn Python](https://www.learnpython.org)
 
 ## Week 1 - Variables, Lists, Booleans
 Start with the traditional "Hello World".
@@ -39,12 +39,11 @@ By the end of this you should know:
 - what does `.pop()` do
 
 Here are some resources to get started: 
-https://www.w3schools.com/python/python_variables.asp 
-https://www.learnpython.org/en/Variables_and_Types
-https://www.learnpython.org/en/Lists
-https://www.w3schools.com/python/python_datatypes.asp
-https://www.w3schools.com/python/python_numbers.asp
-https://www.learnpython.org/en/Lists
+[Variables](https://www.w3schools.com/python/python_variables.asp)
+[Variables and Types](https://www.learnpython.org/en/Variables_and_Types)
+[Lists](https://www.learnpython.org/en/Lists)
+[DataTypes](https://www.w3schools.com/python/python_datatypes.asp)
+[Numbers](https://www.w3schools.com/python/python_numbers.asp)
 
 ## Week 2 - Basic Operations, Arrays, Sets, Tuples, Dictionaries
 Next step is to learn to perform basic operations. 
@@ -56,11 +55,11 @@ By the end of this you should know:
 - what is a dictionary; how to build a dictionary 
 - what does "1"*5 return 
 
-https://www.w3schools.com/python/python_arrays.asp
-https://www.w3schools.com/python/python_operators.asp
-https://www.learnpython.org/en/Basic_Operators
-https://www.learnpython.org/en/Dictionaries
-https://www.w3schools.com/python/python_dictionaries.asp
+[Arrays](https://www.w3schools.com/python/python_arrays.asp)
+[Operators](https://www.w3schools.com/python/python_operators.asp)
+[Basic Operators](https://www.learnpython.org/en/Basic_Operators)
+[Dictionaries](https://www.learnpython.org/en/Dictionaries)
+[More Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
 
 
 ## Week 3 - Conditions, Loops
@@ -75,17 +74,16 @@ By the end of this you should know:
 - what are conditions
 - why should you use conditions
 What is the answer for the following? 
-
+```
 x= 3
 if x < 2:
     print(x)
- 
- 
-https://www.learnpython.org/en/Conditions
-https://www.learnpython.org/en/Loops
-https://www.w3schools.com/python/python_conditions.asp
-https://www.w3schools.com/python/python_for_loops.asp
-https://www.w3schools.com/python/python_while_loops.asp
+```
+[Conditins](https://www.learnpython.org/en/Conditions)
+[Loops](https://www.learnpython.org/en/Loops)
+[More Conditions](https://www.w3schools.com/python/python_conditions.asp)
+[For Loop](https://www.w3schools.com/python/python_for_loops.asp)
+[While Loop](https://www.w3schools.com/python/python_while_loops.asp)
 
 
 ## Week 4 - Functions, classes, modules
@@ -95,7 +93,7 @@ For the last step, let's get into the heavier stuff. By the end of this you shou
 - how are classes and functions related?
 - what are python modules? Can you identify any modules you used so far?
 
-https://www.learnpython.org/en/Functions
-https://www.w3schools.com/python/python_functions.asp
-https://www.learnpython.org/en/Classes_and_Objects
-https://www.learnpython.org/en/Modules_and_Packages
+[Functions](https://www.learnpython.org/en/Functions)
+[More Functions](https://www.w3schools.com/python/python_functions.asp)
+[Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
+[Modules and Packages](https://www.learnpython.org/en/Modules_and_Packages)
