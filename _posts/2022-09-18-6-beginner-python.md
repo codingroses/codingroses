@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "6 Beginner Python Projects you can do in an hour"
-date:   2022-09-18 12:10:02 +0300
+date:   2022-09-18 14:20:02 +0300
 image:  pexels-thisisengineering-3861958.jpg
 tags:   tutorial
 ---
@@ -19,7 +19,7 @@ Also, make sure to grab the *workbook* from [this link](https://github.com/codin
 ** Okay, now we are ready for the tutorial! **
 
 
-## 1.Dice Roll Simulator
+## 1. Dice Roll Simulator
 Create a project that will return the numbers of a dice roll.
 Challenge: roll 2 dices at the same time.
 Learn more about the `random` library [here](https://docs.python.org/3/library/random.html).
