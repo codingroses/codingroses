@@ -13,7 +13,7 @@ What better way to practice than through projects you can add to your portfolio?
 
 The projects are based on [this instagram post](https://www.instagram.com/p/CWvkkhVgju8/) which contains really easy projects to a little bit more complicated (one might consider them to be closer to intermediate)
 
-To follow along the solutions for this project, watch the youtube video [here](![image](https://user-images.githubusercontent.com/51337521/190921834-a221d9a8-ba97-4a06-a4e5-b1f22c05ea72.png))
+To follow along the solutions for this project, watch the youtube video [here](https://youtu.be/pR6z5AKNHZI)
 Also, make sure to grab the *workbook* from [this link](https://github.com/codingroses/python-tutorials/blob/main/6%20Python%20Projects%20for%20Beginners%20(WORKBOOK).ipynb) and if you want to see the *solutions* that are in the video, use [this link](https://github.com/codingroses/python-tutorials/blob/main/6%20Python%20Projects%20SOLUTIONS.ipynb).
 
 ** Okay, now we are ready for the tutorial! **
